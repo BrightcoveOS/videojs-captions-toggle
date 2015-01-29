@@ -1,6 +1,6 @@
 {
   "name": "videojs-captions-toggle",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Brightcove",
   "description": "A button that toggles captions for a specified language.",
   "license": "Apache-2.0",
